@@ -22,3 +22,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 node_modules
+
+.env
+
+.idea/.gitignore
+.idea/inform-risk-api-reactjs-mapbox.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
